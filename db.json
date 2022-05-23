@@ -1,0 +1,50 @@
+{
+  "productList": [
+    {
+      "productName": "iphone",
+      "category": "Electronics",
+      "status": "Second Hand",
+      "date": "2022-05-09T22:00:00.000Z",
+      "price": 102,
+      "comment": "dsdsdd",
+      "id": 1
+    },
+    {
+      "productName": "iphone",
+      "category": "Electronics",
+      "status": "BrandNew",
+      "date": "2022-05-01T22:00:00.000Z",
+      "price": 100,
+      "comment": "none",
+      "id": 2
+    },
+    {
+      "productName": "iphone11",
+      "category": "Electronics",
+      "status": "BrandNew",
+      "date": "2022-05-16T22:00:00.000Z",
+      "price": 2222,
+      "comment": "new one",
+      "id": 3
+    },
+    {
+      "productName": "iphone 11",
+      "category": "SmartPhone",
+      "status": "BrandNew",
+      "date": "2022-05-09T22:00:00.000Z",
+      "price": 1000,
+      "comment": "good condition",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
